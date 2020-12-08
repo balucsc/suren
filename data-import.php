@@ -347,7 +347,7 @@ foreach ($result as $row)
 <?php
 }
 ?>
-<tr><td colspan="5">Total</td><td><?php // echo $sum; ?> </td></tr>
+
 </tbody>
 </table>
 <?php } ?>
